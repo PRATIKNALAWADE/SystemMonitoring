@@ -99,6 +99,3 @@ Partitions with more than 80% disk usage will be highlighted in red.
 - **Script Errors**: Ensure all required packages are installed and that the script has execute permissions.
 - **Performance Issues**: If running on a `t2.micro` instance, check CPU and memory usage. Consider upgrading the instance if necessary.
 
----
-
-Feel free to adjust any details as needed to fit your specific use case or preferences.
